@@ -42,7 +42,7 @@ next-env.d.ts
 .sentryclirc
 
 # GrapgQL Codegen
-/lib/shared/services/api/generated/
+/apps/balancer-frontend-v3/lib/shared/services/api/generated/
 
 # Sentry Config File
 .env.sentry-build-plugin
